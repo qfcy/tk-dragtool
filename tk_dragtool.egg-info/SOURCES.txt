@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+setup.py
+tk_dragtool.py
+tk_dragtool.egg-info/PKG-INFO
+tk_dragtool.egg-info/SOURCES.txt
+tk_dragtool.egg-info/dependency_links.txt
+tk_dragtool.egg-info/top_level.txt
